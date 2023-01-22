@@ -157,3 +157,4 @@ class BigCard extends StatelessWidget {
     );
   }
 }
+git remote set-url origin https://github.com/MyRepo/project.git
